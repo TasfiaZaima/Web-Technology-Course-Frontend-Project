@@ -22,6 +22,6 @@ The original website used as inspiration:
 
 ## **Acknowledgments**
 
--Thanks to the instructor for providing the assignment guidelines.  
--Special appreciation to Dunkin's official website for the design inspiration.
+- Thanks to the instructor for providing the assignment guidelines.  
+- Special appreciation to Dunkin's official website for the design inspiration.
 
